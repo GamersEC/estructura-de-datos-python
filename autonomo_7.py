@@ -1,3 +1,4 @@
+#Actividad 2: Implementación y análisis
 def busqueda_secuencial(lista_desordenada, valor):
     pasos = 0
     for i, elemento in enumerate(lista_desordenada):
